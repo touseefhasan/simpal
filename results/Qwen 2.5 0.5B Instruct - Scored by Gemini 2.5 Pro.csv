@@ -1,0 +1,263 @@
+Row,Evaluation
+0,"### **Level 1**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 7/10 | The activities cover a good range of the specified variables and relationships, including launch angle, range, and air resistance. However, many suggestions are for physical experiments (e.g., build a launcher) rather than simulation-based activities. |
+| **Semantic Relevance to Questions** | 6/10 | The activities are thematically related to the questions, such as experimenting with launch angles to understand its effect on range. However, they are too broad to guide students directly toward answering the specific assessment questions using a simulation. |
+| **Conceptual Progression** | 2/10 | The activities are presented as a disconnected list of ideas with no logical sequence or scaffolding. A summative task like creating a video is listed first, followed by various unrelated experiments. |
+| **Clarity & Design Precision** | 2/10 | Instructions are extremely vague (e.g., ""conduct experiments,"" ""design an experiment"") and lack the specific parameters needed for a simulation. Students are not told what variables to control, change, or measure. |
+| **Output Format Accuracy** | 4/10 | The activities are presented in a numbered list, which provides some structure. However, the output is incomplete and cuts off abruptly, indicating a significant formatting error. |
+
+---
+### **Level 2**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 1/10 | This output fails to generate activities and instead attempts to solve the problems, using incorrect physics formulas (e.g., R = vₓ ⋅ θ). It does not create any context for students to explore the variables. |
+| **Semantic Relevance to Questions** | 2/10 | The output directly addresses the assessment questions by providing answers, rather than creating activities to help students find the answers. This fundamentally misunderstands the prompt's instructional goal. |
+| **Conceptual Progression** | 1/10 | There are no activities to progress through. The output is a chaotic and incorrect set of answers to the provided questions. |
+| **Clarity & Design Precision** | 1/10 | The output is fundamentally incoherent and confusing, particularly the nonsensical ""Multiple Select"" section. It provides no clear instructions for any action. |
+| **Output Format Accuracy** | 2/10 | While the output uses headings for question types, the content beneath them is not formatted as activities and is extremely disorganized. The overall structure is illogical and difficult to parse. |
+
+---
+### **Level 3**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 2/10 | The response narrowly focuses on only three variables (initial velocity, launch angle, time of flight) from a single question. It completely ignores the vast majority of specified concepts and relationships. |
+| **Semantic relevance to Questions** | 2/10 | The text is relevant to only one free-response question but fails the core task by providing a long, rambling answer instead of an activity. It does not address any of the other questions. |
+| **Conceptual Progression** | 1/10 | There is no conceptual progression, as the output consists of a single, unstructured block of text. It is not a set of activities. |
+| **Clarity & Design Precision** | 1/10 | The text is conversational, imprecise, and filled with vague advice and disclaimers. It contains no clear, actionable instructions for a student. |
+| **Output Format Accuracy** | 1/10 | The output is a single, unformatted paragraph with no structure, numbering, or bullet points. It completely fails to meet the formatting requirements for a list of activities. |
+
+---
+### **Level 4**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 6/10 | The suggested activities show a solid understanding of key concepts and the control of variables methodology. However, the overall output is messy and incomplete, failing to cover all the listed concepts systematically. |
+| **Semantic Relevance to Questions** | 7/10 | The proposed core activities (e.g., ""Experiment with varying the initial velocity while keeping the launch angle constant"") are highly relevant for answering the assessment questions. The model correctly identifies how to investigate the relationships mentioned in the questions. |
+| **Conceptual Progression** | 3/10 | The prompt shows awareness of the need for progression by mentioning ""group activities that build upon each other,"" but it fails to implement this. The generated activities are presented without a clear, logical order. |
+| **Clarity & Design Precision** | 5/10 | This level contains moments of excellent instructional design, with clear and precise instructions for controlling variables. Unfortunately, this clarity is buried within confusing, conversational text and a poorly structured overall response. |
+| **Output Format Accuracy** | 3/10 | The output uses numbering, but the structure is chaotic, mixing instructions, questions, and incomplete activity descriptions into one list. The final generated activity is poorly formatted and cut off. |"
+1,"### **Level 1 Evaluation**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 5/10 | The activity titles mention key variables like apparent weight, density, and shape, but they are presented as topics to ""understand"" rather than concrete actions to perform. |
+| **Semantic Relevance to Questions** | 4/10 | The topics listed are relevant to the questions, but the ""activities"" are too vague to provide the specific understanding needed to answer them correctly. |
+| **Conceptual Progression** | 2/10 | There is no clear logical order; for example, ""calculate apparent weight"" (Activity 1) appears before ""learn about the concept of apparent weight"" (Activity 6). |
+| **Clarity & Design Precision** | 1/10 | The instructions are extremely imprecise, using vague phrases like ""investigate"" and ""understand"" without providing any specific actions for the student to take. |
+| **Output Format Accuracy** | 6/10 | The activities are presented in a numbered list, but the list is followed by a large, distracting block of generic, repetitive, and irrelevant filler text. |
+
+---
+### **Level 2 Evaluation**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 1/10 | The activity procedures (drawing with crayons, cutting paper) are completely disconnected from the physics variables and relationships of buoyancy, despite the relevant titles. |
+| **Semantic Relevance to Questions** | 1/10 | The nonsensical procedures would not help a student answer any of the provided questions; they would likely cause confusion about the topic. |
+| **Conceptual Progression** | 3/10 | The list attempts a logical progression of topics (Principle -> Force -> Shape), but the underlying activities are meaningless and the list cuts off mid-sentence. |
+| **Clarity & Design Precision** | 2/10 | While the steps are procedurally clear (e.g., ""draw an object""), they are completely nonsensical and invalid for teaching the scientific concepts in question. |
+| **Output Format Accuracy** | 4/10 | The activities are structured with headings and bullets, but the entire set is incomplete, ending abruptly in the middle of Activity 5. |
+
+---
+### **Level 3 Evaluation**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 9/10 | The activities provide excellent, systematic coverage of the specified variables and relationships, instructing students on how to manipulate them in a simulation. |
+| **Semantic Relevance to Questions** | 9/10 | The experiments directly guide students to discover the principles needed to answer the questions, such as the effect of density, volume, and shape on buoyancy. |
+| **Conceptual Progression** | 6/10 | The set has a generally logical flow, but the progression is weakened by redundant activities (e.g., Activity 7 and 9 are identical) and an incomplete final item. |
+| **Clarity & Design Precision** | 10/10 | The instructions are exceptionally clear and precise, using the ""Vary X while keeping Y constant, record Z"" format, which is ideal for a simulation environment. |
+| **Output Format Accuracy** | 7/10 | The activities are well-structured and numbered, but the list contains duplicate entries and is cut off at the end, indicating a generation flaw. |
+
+---
+### **Level 4 Evaluation**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 0/10 | The activities are completely off-topic, focusing on projectile motion (launch angle, time of flight) instead of the provided buoyancy variables. |
+| **Semantic Relevance to Questions** | 0/10 | These activities are entirely irrelevant and would provide no information to help a student answer the questions about Archimedes' Principle or buoyancy. |
+| **Conceptual Progression** | 1/10 | While a progression exists, it is for the wrong physics topic and is highly repetitive, failing to meet the requirements of the prompt. |
+| **Clarity & Design Precision** | 3/10 | The instructions are minimally clear but lack the specificity of Level 3, and their application to the wrong topic makes them useless. |
+| **Output Format Accuracy** | 4/10 | The list is numbered, but the content is incorrect for the prompt, and it is followed by a large block of irrelevant filler text about physics experiments. |"
+2,"### **Level 1**
+
+**1. Concept & Variable Coverage**
+- **Score**: 2/10
+- **Justification**: The activities focus narrowly on volume and displacement, ignoring the core concepts of mass, density calculation, and intensive/extensive properties. The variables used are poorly defined (e.g., ""rock size"").
+
+**2. Semantic Relevance to Questions**
+- **Score**: 2/10
+- **Justification**: The set only vaguely addresses questions related to displacement. It fails to provide a basis for answering questions about density, mass, or the distinction between intensive and extensive properties.
+
+**3. Conceptual Progression**
+- **Score**: 2/10
+- **Justification**: The activities lack a logical flow, with confusing and repetitive steps. The foundational measurement procedure is flawed, making any subsequent progression ineffective.
+
+**4. Clarity & Design Precision**
+- **Score**: 1/10
+- **Justification**: Instructions are extremely unclear and describe an incorrect and convoluted method for measuring volume. The activities are vague and lack the precision needed for a scientific experiment.
+
+**5. Output Format Accuracy**
+- **Score**: 2/10
+- **Justification**: The output is poorly formatted with confusingly nested lists and incomplete, duplicated activities. It is not presented as a clear, sequential set of instructions.
+
+---
+### **Level 2**
+
+**1. Concept & Variable Coverage**
+- **Score**: 0/10
+- **Justification**: This output is not a set of activities; it is a long, random list of ""True"" and ""False"" values. It covers none of the required concepts or variables.
+
+**2. Semantic Relevance to Questions**
+- **Score**: 0/10
+- **Justification**: The output provides no activities that would help a student learn the material or answer the provided questions. It is completely irrelevant to the task.
+
+**3. Conceptual Progression**
+- **Score**: 0/10
+- **Justification**: There are no activities, and therefore no conceptual progression. The output is simply a meaningless list of booleans.
+
+**4. Clarity & Design Precision**
+- **Score**: 0/10
+- **Justification**: As there are no instructions or activities, the criteria for clarity and precision are not met in any capacity.
+
+**5. Output Format Accuracy**
+- **Score**: 1/10
+- **Justification**: The output is a list, but it fails fundamentally by not being a list of activities as requested. The format is incorrect for the specified task.
+
+---
+### **Level 3**
+
+**1. Concept & Variable Coverage**
+- **Score**: 7/10
+- **Justification**: The activities successfully cover key variables like mass, volume, and density, and concepts like Archimedes' Principle and material comparison. However, it misses the explicit distinction between intensive and extensive properties.
+
+**2. Semantic Relevance to Questions**
+- **Score**: 8/10
+- **Justification**: These activities are highly relevant and would effectively prepare students to answer most of the questions, particularly those involving calculations and applying principles.
+
+**3. Conceptual Progression**
+- **Score**: 5/10
+- **Justification**: While the topics are relevant, the activities are presented as a disconnected list with significant repetition (e.g., Activities 6, 7, 9, 10). There is no clear, incremental build-up of concepts.
+
+**4. Clarity & Design Precision**
+- **Score**: 5/10
+- **Justification**: The activities are presented as general ideas rather than precise instructions. They lack specific guidance on data collection, variable control, or recording observations.
+
+**5. Output Format Accuracy**
+- **Score**: 8/10
+- **Justification**: The output is presented as a clean, numbered list of distinct activities. The formatting is clear and easy to follow, despite some content redundancy.
+
+---
+### **Level 4**
+
+**1. Concept & Variable Coverage**
+- **Score**: 0/10
+- **Justification**: The activities are completely off-topic, focusing on projectile motion (""launch angle,"" ""range"") instead of density. None of the provided variables or concepts are addressed.
+
+**2. Semantic Relevance to Questions**
+- **Score**: 0/10
+- **Justification**: The generated activities have absolutely no relevance to the provided questions about density, mass, and volume. A student completing these activities would be unable to answer any of them.
+
+**3. Conceptual Progression**
+- **Score**: 1/10
+- **Justification**: The output mentions a plan for progression but fails to provide a coherent sequence of activities, and the entire topic is incorrect.
+
+**4. Clarity & Design Precision**
+- **Score**: 2/10
+- **Justification**: The provided ""instructions"" are actually just more questions, and the ""activities"" are single, vague sentences. The output lacks any clear, actionable instructions for a student.
+
+**5. Output Format Accuracy**
+- **Score**: 3/10
+- **Justification**: The format is confusing, mixing meta-instructions (""Step 1,"" ""Step 2"") with the activities themselves. It is not a clean, student-facing list of activities."
+3,"### **Level 1**
+1.  **Concept & Variable Coverage**: 7/10
+    *   Justification: The activities provide good coverage of core concepts like electrostatic force, Coulomb's Law, attractive/repulsive forces, and Newton's Third Law. However, they do not explicitly address the Net Electrostatic Force.
+2.  **Semantic Relevance to Questions**: 8/10
+    *   Justification: The activities build a strong conceptual foundation that would enable students to answer most of the provided questions about Coulomb's Law, N3L, and the nature of forces.
+3.  **Conceptual Progression**: 8/10
+    *   Justification: The set follows a logical progression, starting with definitions, moving to calculations and applications, and ending with a summary. Each activity builds on the previous one effectively.
+4.  **Clarity & Design Precision**: 2/10
+    *   Justification: The instructions are extremely vague, using phrases like ""Discuss,"" ""Understand,"" and ""Explore."" They function as learning objectives rather than precise, actionable steps for a simulation.
+5.  **Output Format Accuracy**: 9/10
+    *   Justification: The activities are clearly separated and numbered with descriptive titles and sub-bullets, making the structure easy to follow.
+
+### **Level 2**
+1.  **Concept & Variable Coverage**: 2/10
+    *   Justification: While the activity titles suggest coverage of distance, force, and net force, the nonsensical instructions prevent any meaningful interaction with these variables.
+2.  **Semantic Relevance to Questions**: 1/10
+    *   Justification: The activities are so confusing and flawed that they would hinder, rather than help, a student's ability to answer the assessment questions.
+3.  **Conceptual Progression**: 1/10
+    *   Justification: There is no logical progression; the activities are repetitive and contain contradictory instructions, failing to build understanding incrementally.
+4.  **Clarity & Design Precision**: 1/10
+    *   Justification: The instructions are fundamentally flawed and impossible to execute, such as asking students to ""measure the charges... with the protractor."" This demonstrates a complete misunderstanding of the physics concepts and tools.
+5.  **Output Format Accuracy**: 7/10
+    *   Justification: The activities are structured with clear headings for objectives, materials, and instructions, but the quality of the content undermines the good formatting.
+
+### **Level 3**
+1.  **Concept & Variable Coverage**: 3/10
+    *   Justification: The activities focus narrowly on the relationship between distance and force, neglecting most other key variables like N3L, net force, and the attractive/repulsive nature of charge interactions.
+2.  **Semantic Relevance to Questions**: 4/10
+    *   Justification: This set would only help students answer questions directly related to the distance-force relationship, leaving them unprepared for questions on other core concepts.
+3.  **Conceptual Progression**: 2/10
+    *   Justification: The flow is illogical and inefficient, with redundant steps (e.g., ""measure the force"" and ""calculate the force"") and poorly sequenced tasks like drawing a diagram after the experiment.
+4.  **Clarity & Design Precision**: 2/10
+    *   Justification: The instructions are vague, repetitive, and lack the specific guidance required for a simulation (e.g., ""set distance to X, measure Y"").
+5.  **Output Format Accuracy**: 1/10
+    *   Justification: The output is poorly structured, with a confusing mix of an activity list, a long paragraph of notes, and a partially repeated list, making it very difficult to follow.
+
+### **Level 4**
+1.  **Concept & Variable Coverage**: 0/10
+    *   Justification: The generated content is completely irrelevant, describing projectile motion instead of electrostatics. None of the specified variables or concepts are covered.
+2.  **Semantic Relevance to Questions**: 0/10
+    *   Justification: The activities have zero relevance to the provided questions about Coulomb's Law and electrostatic forces.
+3.  **Conceptual Progression**: 0/10
+    *   Justification: While the activity has an internal logic for projectile motion, it completely fails to follow any progression related to the assigned topic of electrostatics.
+4.  **Clarity & Design Precision**: 0/10
+    *   Justification: The output fails the most fundamental design requirement of being on-topic, making it useless for the intended learning objective.
+5.  **Output Format Accuracy**: 5/10
+    *   Justification: The format is well-structured for the incorrect topic it presents, but its total irrelevance makes the good formatting misleading and unhelpful."
+4,"Here is the evaluation of the activity sets:
+
+### **Level 1**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 2/10 | The activities mention some relevant concepts but the experimental designs are physically incorrect and fail to properly represent the variables and relationships. |
+| **Semantic Relevance to Questions** | 1/10 | The proposed activities are confusing and nonsensical, providing no valid pathway for students to understand the concepts needed to answer the questions. |
+| **Conceptual Progression** | 1/10 | There is no logical sequence or scaffolding; the activities are a disconnected collection of flawed experiments. |
+| **Clarity & Design Precision** | 1/10 | Instructions are extremely vague and include physically impossible steps, such as measuring height with a spring scale or creating water columns with string. |
+| **Output Format Accuracy** | 8/10 | The output is well-formatted with clearly numbered and separated activities, making the structure easy to read. |
+
+### **Level 2**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 4/10 | The activity titles correctly identify most of the key concepts and relationships, but the content provides only a generic template instead of actual experiments. |
+| **Semantic Relevance to Questions** | 3/10 | While the topics align with the questions, the lack of specific instructions means the activities are not functional for helping students learn the material. |
+| **Conceptual Progression** | 2/10 | The list of topics does not follow a clear pedagogical order, presenting key relationships as an unordered set for investigation. |
+| **Clarity & Design Precision** | 2/10 | The instructions are merely generic placeholders (e.g., ""Record initial conditions,"" ""Compare and discuss findings"") and lack any actionable detail. |
+| **Output Format Accuracy** | 7/10 | The activities are organized with a clear hierarchical structure (headings, objectives, steps), but the list appears to be incomplete. |
+
+### **Level 3**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 2/10 | The table lists some relevant variables but presents them as conclusions, many of which are physically incorrect (e.g., ""Increasing density decreases pressure""). |
+| **Semantic Relevance to Questions** | 1/10 | This format is counterproductive, as it provides students with incorrect information that would lead them to answer the assessment questions incorrectly. |
+| **Conceptual Progression** | 1/10 | The instructions claim the activities build upon each other, but the content is a list of disconnected and often erroneous statements with no logical flow. |
+| **Clarity & Design Precision** | 1/10 | The output is not a set of activities but a list of results, making the instructions at the top irrelevant and the overall design deeply confusing. |
+| **Output Format Accuracy** | 3/10 | While a table is a clear format, its use here is inappropriate as the content does not represent a set of student activities as requested. |
+
+### **Level 4**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 1/10 | The first half of the activities are completely off-topic (projectile motion), and the second half proposes nonsensical experiments for the intended fluid dynamics concepts. |
+| **Semantic Relevance to Questions** | 1/10 | The activities are entirely irrelevant to the provided questions about fluid dynamics, offering students no means to learn the required material. |
+| **Conceptual Progression** | 1/10 | There is no logical progression; the set abruptly switches from projectile motion to fluid dynamics, and the activities within each section are not ordered logically. |
+| **Clarity & Design Precision** | 1/10 | The instructions are vague, and the experimental setups are repetitive and inappropriate for investigating the stated variables (e.g., using a ball in a tube for all fluid concepts). |
+| **Output Format Accuracy** | 8/10 | The activities are presented in a clean, numbered list with clear headings, making the structure easy to follow despite the irrelevant content. |"

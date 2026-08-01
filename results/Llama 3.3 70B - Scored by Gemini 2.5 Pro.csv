@@ -1,0 +1,211 @@
+Row,Evaluation
+0,"### **Projectile Motion Simulation Evaluation**
+
+---
+
+### **Level 1**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 8/10 | The activities cover nearly all the key variables and relationships listed, from initial conditions to the effects of gravity and air resistance. |
+| **Semantic Relevance to Questions** | 9/10 | The activities directly prepare students for the assessment questions by having them explore the exact relationships being tested (e.g., optimal angle, v₀ vs H). |
+| **Conceptual Progression** | 7/10 | There is a logical flow from exploring individual input variables to investigating external factors like gravity, but the steps could be more explicitly connected. |
+| **Clarity & Design Precision** | 3/10 | Instructions are vague (e.g., ""Ask students to investigate...""), lacking specific parameters, constants, or data recording methods needed for a simulation. |
+| **Output Format Accuracy** | 10/10 | The activities are correctly presented as a distinct, numbered list from 1 to 10. |
+
+---
+
+### **Level 2**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 6/10 | The provided activities cover key relationships like angle vs. range and velocity vs. height, but the list is incomplete, stopping after 5.5 activities. |
+| **Semantic Relevance to Questions** | 9/10 | The activities are well-aligned with the questions, directly addressing concepts like optimal angle, the effect of initial velocity, and the calculation of displacement. |
+| **Conceptual Progression** | 8/10 | The set follows a clear ""control of variables"" approach, isolating one variable at a time before combining concepts, which represents a strong pedagogical sequence. |
+| **Clarity & Design Precision** | 8/10 | Instructions are much clearer than Level 1, explicitly stating which variables to vary and keep constant, though specific value ranges are not provided. |
+| **Output Format Accuracy** | 10/10 | The output is exceptionally well-structured with clear headings for each activity and sub-headings for objective, variables, and task. |
+
+---
+
+### **Level 3**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 5/10 | The few activities provided are excellent and cover core concepts, but the list is incomplete, preventing a full assessment of its breadth. |
+| **Semantic Relevance to Questions** | 10/10 | These activities are perfectly tailored to the questions, with procedures that lead students to discover the answers about optimal angle, velocity's effect on range, and time of flight. |
+| **Conceptual Progression** | 9/10 | The visible activities show a clear progression from empirical exploration (finding the optimal angle) to applying specific formulas (calculating time of flight). |
+| **Clarity & Design Precision** | 10/10 | This level demonstrates expert instructional design, providing precise, replicable procedures with specific numerical ranges and increments (e.g., ""from 20 to 70 degrees in increments of 10""). |
+| **Output Format Accuracy** | 10/10 | The format is outstanding, using a clear structure of objective, procedure (with numbered steps), and outcome for each activity. |
+
+---
+
+### **Level 4**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 2/10 | This output describes the variables and a plan to cover them but fails to generate the actual activities, presenting only a list of topics. |
+| **Semantic Relevance to Questions** | 2/10 | The listed topics are relevant, but without developed activities, they do not actively help a student answer the questions. |
+| **Conceptual Progression** | 3/10 | The output describes a logical progression in ""Step 2"" but does not implement it, resulting in a list of disconnected topics rather than a sequential activity set. |
+| **Clarity & Design Precision** | 1/10 | This is not a set of student activities. It is a meta-description of the generation process, making it entirely unusable for a student. |
+| **Output Format Accuracy** | 3/10 | While the output is formatted with steps and a numbered list, it fails to produce the requested output (a set of activities), making the format inaccurate for the task. |"
+1,"### **Level 1**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 8/10 | The activities cover a wide range of key variables and relationships, from density and shape to apparent weight and equilibrium. |
+| **Semantic Relevance to Questions** | 9/10 | The activities directly map to the concepts and skills needed to answer almost all the provided assessment questions. |
+| **Conceptual Progression** | 9/10 | The sequence builds logically from basic observation of sinking/floating to principles, specific variables, and calculations. |
+| **Clarity & Design Precision** | 4/10 | Instructions are conceptually sound but lack experimental precision, using vague phrases like ""observe objects"" and ""conduct a lab."" |
+| **Output Format Accuracy** | 3/10 | The list is numbered and clearly separated, but it failed to generate the requested 10 activities, producing only 7. |
+
+### **Level 2**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 6/10 | The activities focus well on isolating key input variables but omit important concepts like apparent weight and equilibrium. |
+| **Semantic Relevance to Questions** | 7/10 | The controlled experiments are relevant for many questions but do not explicitly prepare students for questions on apparent weight. |
+| **Conceptual Progression** | 5/10 | The activities are presented as a set of standalone experiments rather than a scaffolded sequence that builds understanding. |
+| **Clarity & Design Precision** | 8/10 | This set excels by explicitly stating which variables to vary and keep constant, a key feature of precise instructional design. |
+| **Output Format Accuracy** | 3/10 | While well-formatted with clear numbering, the output is incomplete, providing only 6 of the 10 requested activities. |
+
+### **Level 3**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 5/10 | The coverage is too narrow, focusing on only four experimental setups and omitting several key variables like object density. |
+| **Semantic Relevance to Questions** | 5/10 | There are too few activities to adequately prepare students for the full range of diverse assessment questions provided. |
+| **Conceptual Progression** | 5/10 | Like Level 2, this is a disconnected set of experiments with no clear conceptual flow or scaffolding between them. |
+| **Clarity & Design Precision** | 9/10 | The structure is excellent, clearly defining the variable to vary, constants, and outputs to record for each activity. |
+| **Output Format Accuracy** | 2/10 | The activities are well-structured, but the model produced only 4 of the 10 requested activities, a significant failure. |
+
+### **Level 4**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 8/10 | The activities cover the most important variables and relationships, from density comparison to Archimedes' principle and apparent weight. |
+| **Semantic Relevance to Questions** | 9/10 | The investigative framing of the activities aligns very well with preparing students for the free-response and analytical questions. |
+| **Conceptual Progression** | 8/10 | There is a logical flow from foundational concepts like density to more complex principles and calculations like apparent weight. |
+| **Clarity & Design Precision** | 6/10 | Instructions are clearer than Level 1 but lack the explicit ""vary/constant"" variable control structure seen in Levels 2 and 3. |
+| **Output Format Accuracy** | 3/10 | The list is well-formatted and numbered but is incomplete, providing only 6 of the 10 requested activities. |"
+2,"### Level 1
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 10/10 | The activities comprehensively cover all specified variables and relationships, from fundamental definitions to practical applications like buoyancy and material identification. |
+| **Semantic Relevance to Questions** | 10/10 | There is a direct and clear link between each activity and the provided questions, ensuring students are well-prepared to demonstrate their understanding. |
+| **Conceptual Progression** | 10/10 | The sequence is exceptionally logical, starting with foundational concepts and progressively building to complex experiments and student-led design. |
+| **Clarity & Design Precision** | 4/10 | The activities are described as high-level pedagogical goals (e.g., ""Explain the difference..."") rather than precise, actionable instructions for a student. |
+| **Output Format Accuracy** | 10/10 | The activities are clearly numbered, well-separated, and easy to read, with no formatting errors. |
+
+### Level 2
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 9/10 | The activities cover the core variables and relationships very well, but the last activity is an incomplete sentence. |
+| **Semantic Relevance to Questions** | 9/10 | The set of activities directly prepares students for the calculations and conceptual explanations required by the assessment questions. |
+| **Conceptual Progression** | 7/10 | The progression is logical, but placing the ""Intensive vs. Extensive"" concept at the end is less effective than introducing it near the beginning. |
+| **Clarity & Design Precision** | 8/10 | Instructions are much clearer than Level 1, using specific action-oriented phrases like ""Record the mass and volume"" and ""Calculate the density."" |
+| **Output Format Accuracy** | 6/10 | The formatting is confusing with redundant ""Step"" and ""Activity"" labels, and the list is incomplete. |
+
+### Level 3
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 8/10 | The activities shown have excellent coverage of core concepts, but the list is incomplete, preventing a full evaluation. |
+| **Semantic Relevance to Questions** | 9/10 | The activities are highly relevant and provide the direct experience needed to answer all types of questions, from definitions to experimental analysis. |
+| **Conceptual Progression** | 10/10 | This set demonstrates an outstanding conceptual flow, starting with definitions, moving to measurement, then calculation, and finally application. |
+| **Clarity & Design Precision** | 9/10 | The ""Objective, Procedure, Task"" structure provides excellent clarity, with specific instructions that are easy for students to follow. |
+| **Output Format Accuracy** | 7/10 | The format for the presented activities is excellent and well-structured, but the output is cut off partway through the list. |
+
+### Level 4
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 8/10 | The activities cover the key experimental and analytical concepts well, but the incomplete list makes a full assessment impossible. |
+| **Semantic Relevance to Questions** | 9/10 | The experiment-focused activities directly align with the questions that require data-supported explanations and conceptual understanding. |
+| **Conceptual Progression** | 5/10 | The order is illogical, starting with an experiment (""Effect of Mass on Density"") before the foundational concept (""Intensive vs. Extensive Properties"") is introduced. |
+| **Clarity & Design Precision** | 10/10 | Instructions are exceptionally precise and actionable, using clear, imperative verbs (e.g., ""Select,"" ""measure,"" ""calculate,"" ""record"") ideal for a lab or simulation. |
+| **Output Format Accuracy** | 7/10 | The numbering and titles are perfectly clear, but the list is incomplete as it cuts off in the last activity. |"
+3,"An evaluation of the provided activity sets is detailed below, with scores and justifications for each of the four levels based on the five specified criteria.
+
+### **Level 1**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **1. Concept & Variable Coverage** | 7/10 | The activities mention most of the key concepts and variables, providing a comprehensive high-level overview of the topic. However, they are presented as general ideas rather than concrete tasks. |
+| **2. Semantic Relevance to Questions** | 8/10 | The suggested activity topics align well with the assessment questions, covering the necessary content for students to develop correct answers. |
+| **3. Conceptual Progression** | 9/10 | The set explicitly outlines a logical learning order, starting with foundational concepts like Coulomb's Law and building toward more complex topics like net force. |
+| **4. Clarity & Design Precision** | 2/10 | The instructions are extremely vague, using phrases like ""Have students calculate"" and ""Design an activity"" without specifying procedures, variables, or measurement details. |
+| **5. Output Format Accuracy** | 10/10 | The output is well-structured, using numbered lists and clear headings for the different steps, making it easy to follow. |
+
+### **Level 2**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **1. Concept & Variable Coverage** | 9/10 | The activities provide strong coverage, systematically addressing charge, distance, force types, Newton's Third Law, and net force. The final activity is incomplete, which slightly detracts from full coverage. |
+| **2. Semantic Relevance to Questions** | 10/10 | The activities are directly and effectively aligned with the questions, guiding students to explore the exact relationships needed to answer them correctly. |
+| **3. Conceptual Progression** | 10/10 | The progression is excellent, starting with the basic variables of Coulomb's Law (charge, distance) before moving logically to force interactions, N3L, and net force. |
+| **4. Clarity & Design Precision** | 8/10 | Instructions are generally clear and precise, specifying what variable to change, what to keep constant, and what to record (e.g., ""varying the charge (q) while keeping the distance (r) constant""). |
+| **5. Output Format Accuracy** | 10/10 | The activities are clearly separated and numbered within a step-by-step structure, making the sequence easy to understand and follow. |
+
+### **Level 3**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **1. Concept & Variable Coverage** | 8/10 | The set covers all the required concepts, but there is noticeable redundancy, with multiple activities focusing on the distance-force relationship in very similar ways. |
+| **2. Semantic Relevance to Questions** | 9/10 | The activities cover the necessary content to prepare students for the questions, though the repetitive nature makes the design less efficient. |
+| **3. Conceptual Progression** | 5/10 | The logical flow is weak; the set introduces complex topics like net force and then reverts to more fundamental concepts, indicating a jumbled and poorly scaffolded sequence. |
+| **4. Clarity & Design Precision** | 5/10 | Clarity is inconsistent across the activities. Some instructions are precise (e.g., ""plot a graph""), while others are vague (e.g., ""demonstrate,"" ""discuss""). |
+| **5. Output Format Accuracy** | 10/10 | The activities are presented in a clean, numbered list that is easy to read and well-organized. |
+
+### **Level 4**
+
+| Criteria | Score | Justification |
+| :--- | :--- | :--- |
+| **1. Concept & Variable Coverage** | 10/10 | The coverage is outstanding, with activities systematically designed to investigate each key variable (q, r, k) and relationship (N3L, F_net) in a controlled manner. |
+| **2. Semantic Relevance to Questions** | 10/10 | These activities are perfectly aligned with the assessment questions and encourage deeper understanding by asking students to predict, calculate, and compare results. |
+| **3. Conceptual Progression** | 10/10 | The set follows a flawless and pedagogically sound progression, building from simple one-variable relationships to more complex multi-charge systems. |
+| **4. Clarity & Design Precision** | 10/10 | The instructions are a model of clarity and precision, using specific action verbs and bullet points to clearly define every step for the student. |
+| **5. Output Format Accuracy** | 10/10 | The formatting is excellent, using bolded titles for each distinct activity and bullet points for sub-steps, which makes the instructions exceptionally clear. |"
+4,"### **Level 1**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 9/10 | The activities provide a broad overview, touching on nearly all specified variables and relationships, including hydrostatic pressure, Bernoulli's, flow rate, and viscosity. |
+| **Semantic Relevance to Questions** | 10/10 | The activity set is exceptionally well-aligned with the assessment questions, providing direct practice for each concept tested, from hydrostatic pressure to the gardener's hose scenario. |
+| **Conceptual Progression** | 8/10 | There is a logical flow from foundational definitions and equations to more complex applications like case studies and experiments, creating a solid learning sequence. |
+| **Clarity & Design Precision** | 4/10 | The instructions are high-level and lack specificity, using vague phrases like ""design an experiment"" and ""ask them to explain"" without providing concrete steps or parameters. |
+| **Output Format Accuracy** | 9/10 | The activities are clearly separated and presented in a simple, easy-to-follow numbered list, though the final activity is incomplete. |
+
+---
+### **Level 2**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 6/10 | The activities focus well on a few core relationships (P vs. h, P vs. v, Q vs. A, Q vs. µ) but the set is incomplete and misses several other specified concepts. |
+| **Semantic Relevance to Questions** | 7/10 | The activities cover the concepts for most questions but fail to explicitly set up the inverse relationship between area and velocity needed for the free-response question. |
+| **Conceptual Progression** | 4/10 | The set is presented as a collection of disconnected experiments rather than a scaffolded learning sequence where concepts build upon one another. |
+| **Clarity & Design Precision** | 9/10 | The activities are very precise, using a clear ""control of variables"" experimental design by explicitly stating which variables to vary, hold constant, and measure. |
+| **Output Format Accuracy** | 9/10 | The format is highly structured and clear, using numbering and sub-headings effectively to organize information for each activity, despite being an incomplete list. |
+
+---
+### **Level 3**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 7/10 | The activities cover the most critical relationships needed to understand the topic, but the truncated list omits coverage of some secondary concepts like gravity's role. |
+| **Semantic Relevance to Questions** | 9/10 | This set aligns very well with the assessment questions, with Activity 3 being perfectly designed to help students understand the A vs. v relationship in the hose problem. |
+| **Conceptual Progression** | 8/10 | The activities follow a strong logical progression, beginning with static fluid pressure before moving into the more complex principles governing fluid dynamics. |
+| **Clarity & Design Precision** | 7/10 | The activity structure (Objective, Instructions, Analysis) is excellent for clarity, though the specific instructions are less precise than in Level 2 or 4. |
+| **Output Format Accuracy** | 9/10 | The activities are well-organized with clear titles and structured sub-sections, making the content easy to parse, though the list is incomplete. |
+
+---
+### **Level 4**
+
+| Criterion | Score | Justification |
+| :--- | :--- | :--- |
+| **Concept & Variable Coverage** | 6/10 | While the included activities are high-quality, the set is too incomplete to provide adequate coverage of all the specified variables and relationships. |
+| **Semantic Relevance to Questions** | 7/10 | The activities prepare students for most of the questions, but the experimental design for Activity 3 is not ideal for addressing the core concept in the free-response question. |
+| **Conceptual Progression** | 7/10 | The beginning of the activity sequence is logical, moving from static to dynamic fluids, but the overall progression is difficult to judge as the set is incomplete. |
+| **Clarity & Design Precision** | 10/10 | The instructions are exceptionally clear and precise, providing step-by-step procedures, named tools (e.g., Venturi tube), and explicit analysis tasks for students. |
+| **Output Format Accuracy** | 9/10 | The format is excellent, using a multi-level structure with clear headings, sub-headings, and numbered procedural steps, though the activity set is truncated. |"
